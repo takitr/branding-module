@@ -283,3 +283,7 @@ endif
 if WETEK
 SUBDIRS += wetek
 endif
+
+if WETEK
+SUBDIRS += minix
+endif
